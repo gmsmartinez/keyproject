@@ -1,2 +1,2 @@
 # keyproject
-Proyecto de selección de llaves para su compra. Herramienta utilizada: JavaScript
+Proyecto para la compra de un modelo de llaves. Herramienta utilizada: JavaScript
